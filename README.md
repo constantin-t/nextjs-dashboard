@@ -24,4 +24,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - [x] Improving Accessibility
 - [x] Adding Authenticity
 - [x] Adding Metadata
-- [ ] Next Steps
+- [x] Next Steps
