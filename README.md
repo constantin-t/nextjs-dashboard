@@ -18,8 +18,8 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - [x] Static And Dynamic Rendering
 - [x] Streaming
 - [x] Partial Prerendering
-- [ ] Adding Search And Pagination
-- [ ] Mutating Data
+- [x] Adding Search And Pagination
+- [x] Mutating Data
 - [ ] Handling Errors
 - [ ] Improving Accessibility
 - [ ] Adding Authenticity
