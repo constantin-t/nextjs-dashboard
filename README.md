@@ -21,7 +21,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - [x] Adding Search And Pagination
 - [x] Mutating Data
 - [x] Handling Errors
-- [ ] Improving Accessibility
-- [ ] Adding Authenticity
-- [ ] Adding Metadata
+- [x] Improving Accessibility
+- [x] Adding Authenticity
+- [x] Adding Metadata
 - [ ] Next Steps
