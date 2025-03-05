@@ -13,10 +13,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - [x] Optimizing Fonts And Images
 - [x] Creating Layouts And Pages
 - [x] Navigating Between Pages
-- [ ] Setting Up Your Database
-- [ ] Fetching Data
-- [ ] Static And Dynamic Rendering
-- [ ] Streaming
+- [x] Setting Up Your Database
+- [x] Fetching Data
+- [x] Static And Dynamic Rendering
+- [x] Streaming
 - [ ] Partial Prerendering
 - [ ] Adding Search And Pagination
 - [ ] Mutating Data
