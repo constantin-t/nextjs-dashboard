@@ -20,7 +20,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - [x] Partial Prerendering
 - [x] Adding Search And Pagination
 - [x] Mutating Data
-- [ ] Handling Errors
+- [x] Handling Errors
 - [ ] Improving Accessibility
 - [ ] Adding Authenticity
 - [ ] Adding Metadata
